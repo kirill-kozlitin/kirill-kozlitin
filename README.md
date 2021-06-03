@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kirill-kozlitin
+- ✨ I graduated from Saint-Petersburg Polytechnical Univercity in Civil Engeneering in 2018
 - 👀 I’m interested in data analisys, ML, math. Also I plyaing guitar, do running and enjoy my life!
 - 🌱 I’m currently learning NLP, deep learning. Improve my skills in python.
 - 💞️ I’m looking to collaborate on ML projects.
