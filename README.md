@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: </br>
 Telegram: @skkartel </br>
-VK: [it's me!](https://vk.com/kirill_kozlitin26) </br>
+VK: [It's me](https://vk.com/kirill_kozlitin26) </br>
 Email: kirill.kozlitin@gmail.com </br>
-Strava: https://www.strava.com/athletes/64864072
+Strava: [Also me](https://www.strava.com/athletes/64864072)
 <!---
 kirill-kozlitin/kirill-kozlitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
