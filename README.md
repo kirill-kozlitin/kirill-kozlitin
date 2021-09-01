@@ -7,7 +7,6 @@
 Telegram: @skkartel </br>
 VK: [It's me](https://vk.com/kirill_kozlitin26) </br>
 Email: kirill.kozlitin@gmail.com </br>
-Strava: [Also me](https://www.strava.com/athletes/64864072)
 <!---
 kirill-kozlitin/kirill-kozlitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
