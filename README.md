@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NLP, deep learning. Improve my skills in python.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: </br>
-Telegram: [@skkartel](https://t.me/skkartel)) </br>
+Telegram: [@skkartel](https://t.me/skkartel) </br>
 VK: [It's me](https://vk.com/kirill_kozlitin26) </br>
 Email: [kirill.kozlitin@gmail.com](kirill.kozlitin@gmail.com) </br>
 LinkedIn: [welcome](https://www.linkedin.cn/in/kirill-kozlitin-819b6321b/)
