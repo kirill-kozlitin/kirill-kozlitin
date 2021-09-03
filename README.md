@@ -7,7 +7,7 @@
 Telegram: [@skkartel](https://t.me/skkartel) </br>
 VK: [It's me](https://vk.com/kirill_kozlitin26) </br>
 Email: [kirill.kozlitin@gmail.com](kirill.kozlitin@gmail.com) </br>
-LinkedIn: [welcome](https://www.linkedin.cn/in/kirill-kozlitin-819b6321b/)
+LinkedIn: [Welcome](https://www.linkedin.cn/in/kirill-kozlitin-819b6321b/)
 <!---
 kirill-kozlitin/kirill-kozlitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
